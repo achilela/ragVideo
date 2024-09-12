@@ -7,4 +7,5 @@ langchain
 pytubefix
 youtube-transcript-api
 predictionguard
+opencv-python
 # Add other dependencies as needed
