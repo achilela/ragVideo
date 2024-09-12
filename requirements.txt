@@ -3,4 +3,6 @@ pyyaml
 moviepy
 lancedb
 python-dotenv
+langchain
+pytubefix
 # Add other dependencies as needed
