@@ -5,4 +5,5 @@ lancedb
 python-dotenv
 langchain
 pytubefix
+youtube-transcript-api
 # Add other dependencies as needed
