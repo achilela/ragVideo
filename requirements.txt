@@ -8,5 +8,5 @@ pytubefix
 youtube-transcript-api
 predictionguard
 opencv-python
-libgl1
+libgl1-mesa-glx
 # Add other dependencies as needed
