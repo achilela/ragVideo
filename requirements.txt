@@ -6,4 +6,5 @@ python-dotenv
 langchain
 pytubefix
 youtube-transcript-api
+predictionguard
 # Add other dependencies as needed
