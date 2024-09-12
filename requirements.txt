@@ -9,4 +9,5 @@ youtube-transcript-api
 predictionguard
 opencv-python
 libgl1-mesa-glx
+-f
 # Add other dependencies as needed
