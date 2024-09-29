@@ -1,0 +1,15 @@
+langchain
+tqdm
+lancedb
+predictionguard
+pydantic
+streamlit
+pyyaml
+moviepy
+lancedb
+python-dotenv
+pytubefix
+youtube-transcript-api
+predictionguard
+opencv-python
+libgl1-mesa-glx
