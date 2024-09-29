@@ -1,0 +1,16 @@
+# CONFIG_YAML
+header_image_path: "assets/header.png"
+lancedb_host_file: "./shared_data/.lancedb"
+lancedb_table_name: "demo_tbl"
+output_video_path: "./shared_data/splitted_videos"
+prompt_template: "The transcript associated with the image is '{transcript}'. {user_query}"
+sample_queries:
+  - "What is the name of one of the astronauts?"
+  - "An astronaut's spacewalk"
+  - "What does the astronaut say?"
+lvlm_inference_function: "app.utils.lvlm_inference_with_conversation"
+
+dependencies:
+  - pip
+  - pip:
+    - -r requirements.txt

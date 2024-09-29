@@ -1,0 +1,7 @@
+
+streamlit==1.22.0
+langchain
+tqdm
+lancedb
+predictionguard
+pydantic==1.10.2
